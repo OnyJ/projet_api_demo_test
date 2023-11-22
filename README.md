@@ -1,6 +1,7 @@
 # Website to display Velibs
 
-Find your Velib bikes anywhere in Paris !
+Find your Velib bikes anywhere in Paris !  
+This project is a training course on how to make API requests.
 
 ## How to use this code
 
